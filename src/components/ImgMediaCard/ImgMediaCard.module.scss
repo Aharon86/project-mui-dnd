@@ -1,0 +1,26 @@
+.card {
+  max-width: 377px;
+  margin: 24px 10px;
+
+  .cardContent {
+    padding: 24px 24px 16px;
+  }
+
+  .cardInfo {
+    padding: 28px 24px 24px;
+
+    .price {
+      font-weight: bold;
+    }
+
+    .about {
+      height: 64px;
+      line-height: 22px;
+      overflow: hidden;
+    }
+  }
+
+  .action {
+    padding: 28px 24px 31px;
+  }
+}
